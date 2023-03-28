@@ -1,4 +1,16 @@
+body {
+    background: linear-gradient( to right, lightblue, lavender);
+}
+.container {
+    width: 95%;
+    height: 95%;
+    margin: auto;
+    background-color: bisque;
+    padding: 20px;
+}
+
 .mainPicture {
     width: 100px;
     border-radius: 50px;
 }
+
