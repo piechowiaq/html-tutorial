@@ -13,4 +13,7 @@ body {
     width: 100px;
     border-radius: 50px;
 }
+.head-name {
+    font-weight: 400;
+}
 
